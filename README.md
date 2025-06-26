@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mirthunjai0135
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Web developent
+- 🌱 I’m currently learning Python
 
 
 <!---
